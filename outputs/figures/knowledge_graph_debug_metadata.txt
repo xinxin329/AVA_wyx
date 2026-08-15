@@ -1,0 +1,484 @@
+===== DEBUG Entity 4 =====
+{
+  "requested_display_label": "Entity 4",
+  "node_id": "Entity-e97d3fdbda0de9264c32b892fc6dd269",
+  "node_type": "entity",
+  "full_label_name": "Entity-e97d3fdbda0de9264c32b892fc6dd269",
+  "full_description": "a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock in the middle of the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground a large rock on the ground",
+  "start_timestamp": null,
+  "end_timestamp": null,
+  "start_time": null,
+  "end_time": null,
+  "degree": 27,
+  "adjacent_nodes": [
+    {
+      "adjacent": "Event-8d6e5f81226b5c484150d9f1894623e7",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-dc4f1141f1a9f43395048a1fa5c047e5",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-eef4af211938926da6c3a2d88ea50f60",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-f24a632e0dd5fda0137fabddf8ecb4eb",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-ee4c0175a7d4c561e1971ac675cd9efa",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-16d509ee1414b9ce8318bbb01c282782",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-60634549333462dc503da3efe7d45a92",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-e6a5a061c86199c7514cc7b980d4512e",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-34d558e2f8b6e69b9ab8ae9a56f4f593",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-b6f2bcc9eb7d81d545f1eb1b5ac80b72",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-f30e1a8d7534589ca9bffd56738cd606",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-d623286aee63a7579f59570de6c73da8",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-6931f9d23cc0e9a47a8568a20ced8126",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-b473c33001962737b84feea9c35dd6b9",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-1e1cddbdf2eb3668a7e19f9f833fe21c",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-c5ce7cc811fcaf13e9fa655c34f1b0e5",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-42e4c5b90e15a4267ca9eb7945f532b3",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-36e76cb3ab630d4f417416a06c498f2f",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-31c787c392536867ca31a806cc2609ed",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-5d95722b8bffad0ed0d8f35e13e50292",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-1835639ba7e86794a33dd50f0fd71f90",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-9df608f747ff0be0b73c2f6050ee01a4",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-0e0cf3227b4bde3f8b8970d7bd763ae9",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-f3732a8143fd2be21b5ea0e6048a3477",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-e02fe9d1509546912473ec1e8e5a73d3",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-3a9d3d6682d157a803df3eaac9902f30",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-a8679bc65d558fe34c49e3a4e0657273",
+      "direction": "undirected",
+      "relation": "relation"
+    }
+  ]
+}
+
+===== DEBUG Entity 6 =====
+{
+  "requested_display_label": "Entity 6",
+  "node_id": "Entity-e5cfccbccdc4d7f5db24ca674b80b0ba",
+  "node_type": "entity",
+  "full_label_name": "Entity-e5cfccbccdc4d7f5db24ca674b80b0ba",
+  "full_description": "a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a tall tree with a thick trunk and wide branches a large tree with thick branches and a trunk a large tree with a thick trunk and branches a large tree with a thick trunk and numerous branches a tree with a thick trunk and branches a large tree with a thick trunk and leafy branches a tall tree with a thick trunk a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with thick branches and a trunk, with a few leaves visible a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with a thick trunk and branches a large tree with thick trunk and branches a large tree with thick trunk and branches a large tree with a thick trunk and branches a tall tree with thick branches a large tree with a thick trunk and branches",
+  "start_timestamp": null,
+  "end_timestamp": null,
+  "start_time": null,
+  "end_time": null,
+  "degree": 41,
+  "adjacent_nodes": [
+    {
+      "adjacent": "Event-472c1c2efc0de8dfab3c71a6830de370",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-365fe7db4894b4fcdf718aa565aa48fa",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-9ef10feab1572ea25411594ff4d56d65",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-b5451c9818b73b79b555c7b7237c5a3b",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-1aa28a6567b8b0fbfddacac102830e54",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-1b4f03379fb13786d5e5456d55345db4",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-efe83f88c1744c112f98f87b31a34385",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-e4b6d8dd071b15f179e8d4ca217214ec",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-333aacf427b0087fdde3e372d7af7bc5",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-60634549333462dc503da3efe7d45a92",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-77f5e3c7b368e97d65c0bbc94711ad2d",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-5afe65a1598f6eb69d6d579cb4f60adb",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-cb4a82252d741b2a719cc7d366add946",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-684833b9fd002c58dab17f35c0c6b4df",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-0baec415229bf0bb3535228c699ba337",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-4454e4b76a199a56dc6f629b3d02e183",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-e5b96e4c53b462576528fc42a5e7b0e8",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-07f234a7ccd9808d58db2a21d60146da",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-3f010000acea7b7d2783c435d7d4b194",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-31c787c392536867ca31a806cc2609ed",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-e496ab5fb8925768944a997b5d1fa8da",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-2744ab8b39a462c6e47fbd83c9182c59",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-96e411d928ddf406ced36b4466e392e5",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-7297ed22d38e258c95fff6a44877ca9d",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-8c92f9fd6480123f99187bf63b074599",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-1f321abe5814e1a750caa501ff7f94c9",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-df898e45a7e7ef95c30c9b14e641d009",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-20590f5ebbe4a543cd9acd5e94bd4032",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-6c9649eafd021408baaa5b52a7acb1dc",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-84e5376f7c80ef2100af4ce13fa8fed1",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-ccda3b5a0331f2e7d8b1b93a6c65a4bf",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-b8450c5515de9ca356f73660d341b6c8",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-d789a15a3da95f9b5cc1c5cc75ad83b5",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-7c59dc70a10a2a7b518672320e095cc4",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-9df608f747ff0be0b73c2f6050ee01a4",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-4166f175ae96237c2b3f09588a88e40f",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-e9188296287c05c8d03ae0b17bd8d67d",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-9e3c61c548c83bb1ec2766df281e78f3",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-4d0696d10babe0342f596096fd8c84c5",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-9c19ec6fcbff8a81a29190df7cf7e409",
+      "direction": "undirected",
+      "relation": "relation"
+    },
+    {
+      "adjacent": "Entity-fa2a03f029b5a5dd986fcf30ce15cf56",
+      "direction": "undirected",
+      "relation": "relation"
+    }
+  ]
+}
+
+===== DEBUG Event 29 =====
+{
+  "requested_display_label": "Event 29",
+  "node_id": "Event-31c787c392536867ca31a806cc2609ed",
+  "node_type": "event",
+  "full_label_name": "Event-31c787c392536867ca31a806cc2609ed",
+  "full_description": "In a nocturnal setting, a pair of raccoons explores a rocky area, their movements deliberate and cautious. Positioned on the left, one raccoon, possibly a female, stands near a large, elongated rock, its fur contrasting against the dark backdrop. Meanwhile, the second raccoon, likely male, is further to the right, situated close to a denser cluster of rocks. As the raccoon on the right begins to move, it displays a subtle shift in posture, leaning forward, and then proceeds to interact with the rocks, perhaps searching for food or inspecting the area. The raccoon on the left remains stationary, observing its surroundings with keen eyes. The scene unfolds in a natural, untamed environment, characterized by a mix of rocks and sparse vegetation, with a prominent tree standing tall in the background, silhouetted against the night sky. The raccoons' interaction with their environment, their subtle movements, and their mutual observation create a dynamic yet serene tableau, capturing the essence of nocturnal wildlife in its natural habitat. The video captures a nighttime scene in a forest, illuminated by a camera trap, featuring a large branch lying across the ground, surrounded by rocks and debris. Two animals, likely wolves or foxes, are present, one lying on the ground and the other further back, partially obscured by the trees, engaged in different activities. The environment is dense with trees and undergrowth, creating a natural and wild setting. The animals' presence adds a sense of life and movement to the otherwise still and dark scene. The video depicts a serene night scene in a forested area, captured using a stationary camera, with a dense cluster of trees and undergrowth, a fallen tree trunk lying across the ground, and a group of animals, likely hyenas, in various states of movement. The entire scene conveys a sense of calm yet subtle activity, typical of nocturnal wildlife. The video depicts a night-time scene in a forested area, with a thick tree in the center, dense foliage, and a person lying on the ground in the foreground, appearing to be in a relaxed or unconscious state, with the surrounding environment emphasizing the secluded and tranquil nature of the location. The video captures a serene nighttime scene in a natural setting, likely a forest or woodland area, with a tree standing prominently in the background, intricate branches silhouetted against the night sky, and a dead animal lying on the ground, partially decomposed. The camera remains stationary, allowing viewers to take in the stillness and quiet beauty of the environment. The video sequence captures a nocturnal scene in a forested area, illuminated by a night vision camera, with a badger actively digging into a pile of rocks, searching for food, and a dead animal lying motionless on the ground, partially obscured by rocks and vegetation. The badger's movements are deliberate and focused as it continues its search, occasionally pausing to sniff the ground or the rocks, with the surrounding environment dense with trees and underbrush, creating a sense of seclusion and natural habitat. The overall scene conveys a sense of the badger's nocturnal activity and its natural behavior in a forested environment.",
+  "start_timestamp": 35508.0,
+  "end_timestamp": 35532.0,
+  "start_time": "09:51:48",
+  "end_time": "09:52:12",
+  "degree": 5,
+  "adjacent_nodes": [
+    {
+      "adjacent": "Event-5055eef44497b9a3d3f71c96dfb6406e",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    },
+    {
+      "adjacent": "Entity-e5cfccbccdc4d7f5db24ca674b80b0ba",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-e97d3fdbda0de9264c32b892fc6dd269",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-75e6550127d7a93b4e795bd9d0eb1cc2",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-25c357698b512a7efc61861b3de701ef",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    }
+  ]
+}
+
+===== DEBUG Event 10 =====
+{
+  "requested_display_label": "Event 10",
+  "node_id": "Event-25c357698b512a7efc61861b3de701ef",
+  "node_type": "event",
+  "full_label_name": "Event-25c357698b512a7efc61861b3de701ef",
+  "full_description": "The video captures a series of nighttime scenes in a forested area, showcasing various animals engaging in different activities. The first segment features two animals, one likely a predator, feeding on the remains of a larger animal, possibly a deer, lying on the ground. The second animal, smaller and possibly a predator as well, is positioned slightly further away, observing the larger animal's feeding with a posture suggesting caution and curiosity. The setting is dimly lit, emphasizing the nocturnal environment, with trees and foliage creating a sense of depth and enclosure. The absence of human activity or artificial structures further emphasizes the untouched nature of the environment. The second segment shifts focus to a large tree standing prominently in the center of the frame, surrounded by dense foliage and scattered rocks, creating an eerie atmosphere. The presence of two animals, one possibly a deer lying lifeless and another, possibly a predator, standing over the deer, adds a sense of tension to the scene. The third segment captures a large animal, possibly a deer, running swiftly across the frame from left to right, its movements suggesting a sense of urgency or fear, before exiting the frame, leaving the camera stationary on the tree. The fourth segment focuses on a hyena moving slowly across rocks in a forested area, approaching a fallen tree trunk, its movements deliberate and cautious. The fifth segment showcases a bear, its dark silhouette contrasting sharply against the lighter surroundings, moving slowly with a level of caution and familiarity with the terrain. The sixth segment captures a solitary badger near a tree in a forested area, moving slowly and cautiously, exploring the area around the tree, occasionally stopping to sniff the ground or the tree itself. The seventh segment presents a serene nocturnal scene in a forested area, featuring a small animal, possibly a fox or a similar creature, moving slowly and cautiously through the underbrush, searching for food or retreating from potential predators. The camera remains stationary throughout, allowing the viewer to absorb the quiet beauty and subtle activity of the nocturnal forest setting.",
+  "start_timestamp": 35532.0,
+  "end_timestamp": 35556.0,
+  "start_time": "09:52:12",
+  "end_time": "09:52:36",
+  "degree": 5,
+  "adjacent_nodes": [
+    {
+      "adjacent": "Event-31c787c392536867ca31a806cc2609ed",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    },
+    {
+      "adjacent": "Entity-c501c3538d2f961f83b3a00109d25096",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-b8bdb4fa522c8e8e5dd66e5d238603e0",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Entity-e3d99a05b09c365274bd7694d9300225",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-52680a1e2cc87639859e036e45ca87fd",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    }
+  ]
+}
+
+===== DEBUG Event 18 =====
+{
+  "requested_display_label": "Event 18",
+  "node_id": "Event-5055eef44497b9a3d3f71c96dfb6406e",
+  "node_type": "event",
+  "full_label_name": "Event-5055eef44497b9a3d3f71c96dfb6406e",
+  "full_description": "The video appears to be a series of night scenes captured by a camera trap, showcasing various animals in a wooded area. The first segment shows a large, indistinct animal, possibly a badger, lying on the ground, partially obscured by a fallen tree trunk. This animal remains in a similar position across the frames, suggesting no significant movement. The second segment captures a raccoon foraging in a natural setting, with its distinctively masked face and bushy tail, moving around the area, sniffing and exploring its surroundings, which include a fallen log and scattered rocks. The raccoon's movements are slow and deliberate, suggesting a careful approach to its environment. The third segment depicts a badger actively foraging on the ground, moving around the area, sniffing and investigating the ground, which is covered with rocks and some organic debris. The badger's movements are deliberate and focused, suggesting it is searching for food. The fourth segment shows a badger meandering through a rocky undergrowth, its fur blending subtly with the dark surroundings, engaged in natural exploration, possibly in search of food or simply navigating its territory. The fifth segment captures two animals, likely a raccoon and a badger, navigating their surroundings in a dense forested area, with the raccoon foraging near a tree trunk and the badger engaged in similar activities. The sixth segment depicts a group of animals, possibly badgers, engaging in their natural behaviors in a forested area, with one animal resting or observing, another foraging or exploring, and a third moving slightly between the frames, all set against a backdrop of dense foliage and a tall tree, illuminated by a light source casting a soft glow over the rocky ground and the animals. Throughout the video, the environment remains consistent, with trees and undergrowth providing a natural backdrop, and the overall atmosphere is quiet and serene, typical of a nocturnal wildlife setting.",
+  "start_timestamp": 35487.0,
+  "end_timestamp": 35508.0,
+  "start_time": "09:51:27",
+  "end_time": "09:51:48",
+  "degree": 3,
+  "adjacent_nodes": [
+    {
+      "adjacent": "Event-b38455bfe99317f60fe1989f6ecd9c6e",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    },
+    {
+      "adjacent": "Entity-78cf57e5386791f3a75f6d163ce60d54",
+      "direction": "undirected",
+      "relation": "belong_to"
+    },
+    {
+      "adjacent": "Event-31c787c392536867ca31a806cc2609ed",
+      "direction": "undirected",
+      "relation": "event_time_relation"
+    }
+  ]
+}

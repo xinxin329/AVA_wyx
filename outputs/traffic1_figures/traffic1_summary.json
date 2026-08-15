@@ -1,0 +1,15 @@
+{
+  "traffic1_questions": 12,
+  "sa_correct": 4,
+  "sa_accuracy": 33.33333333333333,
+  "ca_correct": 0,
+  "ca_accuracy": 0.0,
+  "full_nodes": 13921,
+  "full_edges": 29027,
+  "event_nodes": 5742,
+  "entity_nodes": 8179,
+  "local_nodes": 22,
+  "local_edges": 25,
+  "local_start": 45975.0,
+  "local_end": 46074.0
+}

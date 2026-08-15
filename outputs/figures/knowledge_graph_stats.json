@@ -1,0 +1,77 @@
+{
+  "full_graph_nodes": 6106,
+  "full_graph_edges": 13536,
+  "full_node_types": {
+    "event": 2254,
+    "entity": 3852
+  },
+  "full_edge_types": {
+    "belong_to": 9607,
+    "event_time_relation": 2253,
+    "relation": 1676
+  },
+  "local_graph_nodes": 15,
+  "local_graph_edges": 14,
+  "keywords": [
+    "fox",
+    "deer",
+    "badger"
+  ],
+  "temporal_window_events": 12,
+  "entity_hop_depth": 1,
+  "hidden_generic_entity_ids": [
+    "Entity-83882adf807b02f0ad2b88c38bb03301",
+    "Entity-eca95ba7bf868cbe83aebc5e4eaf6d71",
+    "Entity-3f1b3185b914cdf5a2157e28ed79d995",
+    "Entity-c38bc603b2790abf1a237b7ab650cc8e",
+    "Entity-798d1bccc0e55317091b6226f232cae1",
+    "Entity-bb786afb2b6d5c176081199a4d357e45",
+    "Entity-d40de31afeba20d74c59dc0a04996126",
+    "Entity-911ee80158f34cdeb7f150dadf34978f",
+    "Entity-a36e867a976ea279f9b25c43e921868d",
+    "Entity-3f7320f19314e078ab2a523a63c0ab5a",
+    "Entity-617806f00e8a9246cee5c06a8d172d58",
+    "Entity-d1b12c13ab2984f7ed359f2224da8fae",
+    "Entity-51e71b92c0075226a89494beb69435dd",
+    "Entity-57d59c9d21cf66b749defd8ab7baf751",
+    "Entity-caa24de34c0ae52fa4ecfd7d0330f9a1",
+    "Entity-6a561133ef096d7560a0cbc250df0165",
+    "Entity-ba6e3be91077529b90ca6670c4b11980",
+    "Entity-5c81f2fcd0d53171f3ff275b7941fa92",
+    "Entity-d5cf9789c63606615f381cd2ae1bd92e",
+    "Entity-e4115a9ea72f7d560ea2c3718aed1641",
+    "Entity-7242799f369a51ea355f7672d3557a45",
+    "Entity-fb241b66e858ec6db20232830848b7b0",
+    "Entity-1668331891844125fd66d94ad316db11",
+    "Entity-e14124e43aa2eb029ebdf9713b7cc00c",
+    "Entity-c0dde036fffe00af157028857667c818",
+    "Entity-63108be170b3c7b38b259dd4bf09e675",
+    "Entity-fcbccff9fe6f4bfb5651854ae4d50101",
+    "Entity-4b61ca0c338c16ef2cc1cdd25b56f991",
+    "Entity-a2539d87dd73ee0a9da3da99f714e74a",
+    "Entity-86c44d7c42867d115432ce88d8969bc5",
+    "Entity-f759e380b99715ccb0173c45576c77f4",
+    "Entity-572f583e8a1e9c74a80f651dd7263622",
+    "Entity-5896b1b416e7a735008271c99ce6d1bd",
+    "Entity-041020dcb767a0802519f9470c8b52ef",
+    "Entity-5e38e66a6f1077b3ad85dbb15e2b462e",
+    "Entity-9975c8ff248cb0837c2200c6a02511f6",
+    "Entity-7f37922801c9ac5bc86af3f92a9fccaa",
+    "Entity-12bde91041cac8797dc8e22648e90702",
+    "Entity-6a72e719212ed79f45c615e2325e3854",
+    "Entity-eb1f16324c2ed27548194f73193bf16b",
+    "Entity-8060e9753de96f0a7046d1aff9f92997",
+    "Entity-d5c9decf7fe2dbe7bf831a84f37a8af9",
+    "Entity-921c0b979e58e655b753b541a16a8582",
+    "Entity-2aaa72dcee977abb61fcf93c1077adc0",
+    "Entity-ad5300606753f1d1225c69f794375eb3"
+  ],
+  "time_range_seconds": [
+    34248.0,
+    34446.0
+  ],
+  "time_range": [
+    "09:30:48",
+    "09:34:06"
+  ]
+}

@@ -1,0 +1,9 @@
+question_id,question,ground_truth,sa_14b,ca_4_votes,ca_8_votes,sa_14b_correct,ca_4_votes_correct,ca_8_votes_correct
+0,"According to the surveillance footage, if a person appeared, if so, what is the most likely identity of this person?",C,C,C,C,True,True,True
+1,"According to the surveillance footage, if an animal resembling a pheasant appeared, what is its sex?",D,B,A,A,False,False,False
+2,"Did a fox appear in the surveillance footage? If so, around what time did it appear first time?",D,D,D,D,True,True,True
+3,How many badgers appeared between 21:00 and 21:30 in the surveillance footage?,D,D,A,A,True,False,False
+4,"Around what time did daylight begin, as indicated by the camera switching off night vision mode?",C,C,A,A,True,False,False
+5,Around what time did it start getting dark (indicated by the activation of night vision on the camera)?,B,C,C,C,False,False,False
+6,"Did any wood pigeons appear in the surveillance footage? If so, how many were they when they firstly appeared?",A,A,C,A,True,False,True
+7,Are foxes active at night according to the surveillance footage?,A,A,A,A,True,True,True

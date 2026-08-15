@@ -1,0 +1,13 @@
+question_id,question,ground_truth,time_reference,sa_14b,ca_8_votes,sa_correct,ca_correct,ca_A_share,ca_B_share,ca_C_share,ca_D_share
+0,"Between 4:30 and 4:40, did an red car pass the intersection, and if so, what direction did it go?",B,1:27:35,C,A,False,False,1.0,0.0,0.0,0.0
+1,"Between 6:20 and 6:25, did a taxi pass the intersection, and if so, what direction did it go?",B,3:12:16,B,A,True,False,0.75,0.25,0.0,0.0
+2,"Between 5:15 and 5:20, did a bus pass the intersection, and if so, at what time did it pass?",B,2:08:17,B,A,True,False,0.875,0.125,0.0,0.0
+3,"Between 6:30 and 6:35, did any pedestrians cross the intersection, and if so, in what did they do",A,3:26:01,A,D,True,False,0.25,0.0,0.0,0.75
+4,"Between 6:50 and 7:00, which of the following statements about a truck at the intersection is true?",B,3:44:07,D,A,False,False,1.0,0.0,0.0,0.0
+5,"Between 7:15 and 7:20, did a tow truck pass the intersection? If so, what was it towing?",B,4:23:25,D,A,False,False,0.875,0.125,0.0,0.0
+6,How many buses passed the intersection between 8:30 and 8:35?,C,"5:23:33, 5:25:34",A,B,False,False,0.375,0.625,0.0,0.0
+7,How many trucks passed the intersection between 9:50 and 10:00?,C,"6:41:36, 6:46:03, 6:46:57",B,A,False,False,0.625,0.375,0.0,0.0
+8,"Around 12:35, which of the following statements about a person on a bicycle at the intersection is true?",D,9:27:17,D,A,True,False,1.0,0.0,0.0,0.0
+9,Around what time did the 902 bus pass the intersection?,B,12:16:30,A,A,False,False,1.0,0.0,0.0,0.0
+10,Was there traffic congestion at the intersection between 16:00 and 16:10?,D,12:46:45,A,A,False,False,1.0,0.0,0.0,0.0
+11,"Around 14:49, why did the orange van past the stop line and stop in the middle of the intersection?",D,11:34:45,C,A,False,False,0.75,0.0,0.125,0.125
